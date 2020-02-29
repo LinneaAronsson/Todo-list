@@ -1,0 +1,25 @@
+body {
+    background-color: #eaf7f7;
+    font-size: 25px;
+    font-family: "Univers LT W01_45 Light",sans-serif;
+    align-items: center;
+
+}
+
+h1 {
+    margin: 0;
+    text-align: center;
+}
+.input_div {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.container{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+
